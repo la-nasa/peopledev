@@ -21,7 +21,7 @@
   },
   "contactPoint": {
     "@@type": "ContactPoint",
-    "telephone": "+123-456-7890",
+    "telephone": "+237 693 942 854",
     "contactType": "customer service"
   },
   "sameAs": [
